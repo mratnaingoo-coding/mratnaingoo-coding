@@ -14,7 +14,7 @@
 ## Language Tools <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="35" height="35" />
 
 <p align= "left">
-  <img src= "https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" width="70" height="70" >
+  <img src= "https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" width="50" height="50" >
   <img src= "https://img.icons8.com/?size=100&id=g9mmSxx3SwAI&format=png&color=000000" alt="Bootstrap" width="50" height="50" >
   <img src= "https://img.icons8.com/?size=100&id=GPfHz0SM85FX&format=png&color=000000" alt="Java" width="50" height="50" >
   <img src= "https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000" alt="React" width="50" height="50" >
