@@ -14,7 +14,12 @@
 
 ## Language Tools
 <p align= "left">
-  <img src= "https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png">
+  <img src= "https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" width="40" height="40" >
+  <img src= "![image](https://github.com/user-attachments/assets/a1ef39d3-a69d-46b2-b85f-d338b93c6504)
+" alt="Bootstrap" width="40" height="40" >
+  <img src= "https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" width="40" height="40" >
+  <img src= "https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" width="40" height="40" >
+  <img src= "https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" width="40" height="40" >
 
 
 </p>
