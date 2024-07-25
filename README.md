@@ -4,12 +4,11 @@
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="200" height="200" />
 </h1>
 
-<p font-weight="700" font-size="25px">
 - 👀 I’m interested in Web Developer, especially in Backend.
 - 🌱 I’m currently learning Java SE, C# .Net, HTML, CSS, JS, Bootstrap, React, NodeJS, Express JS and so on.
 - 📫 Here's my email: mratnaingoo@gmail.com
 - 😄 You can call me Rikzil or Mrat.
-</p>
+
 
 
 ## Language Tools <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="80" height="80" />
