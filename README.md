@@ -14,11 +14,11 @@
 
 ## Language Tools
 <p align= "left">
-  <img src= "https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" width="40" height="40" >
-  <img src= "https://img.icons8.com/?size=100&id=g9mmSxx3SwAI&format=png&color=000000" alt="Bootstrap" width="40" height="40" >
-  <img src= "https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" width="40" height="40" >
-  <img src= "https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" width="40" height="40" >
-  <img src= "https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" width="40" height="40" >
+  <img src= "https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" width="50" height="50" >
+  <img src= "https://img.icons8.com/?size=100&id=g9mmSxx3SwAI&format=png&color=000000" alt="Bootstrap" width="50" height="50" >
+  <img src= "https://img.icons8.com/?size=100&id=GPfHz0SM85FX&format=png&color=000000" alt="Java" width="50" height="50" >
+  <img src= "https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" width="50" height="50" >
+  <img src= "https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png" alt="C#" width="50" height="50" >
 
 
 </p>
