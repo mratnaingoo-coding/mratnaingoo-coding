@@ -19,6 +19,8 @@
   <img src= "https://img.icons8.com/?size=100&id=GPfHz0SM85FX&format=png&color=000000" alt="Java" width="50" height="50" >
   <img src= "https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000" alt="React" width="50" height="50" >
   <img src= "https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" alt="JavaScript" width="50" height="50" >
+  <img src= "https://img.icons8.com/?size=100&id=ircRUafcXHny&format=png&color=000000" alt="MySQL" width="50" height="50" >
+  
 </p>
 
 <!---
