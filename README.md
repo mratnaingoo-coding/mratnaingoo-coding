@@ -5,7 +5,7 @@
 </h1>
 
 # 💫 About Me:
-👀 I’m interested in Web Developer, especially in Frontend.<br>🌱 I’m currently learning Java SE, C# .Net, HTML, CSS, JS, Bootstrap, React, NodeJS, Express JS and so on.<br>📫 Here's my email: mratnaingoo@gmail.com<br>😄 You can call me Rikzil or Mrat.
+👀 I’m interested in Web Developer, especially in Frontend.<br>🌱 Not only the coding, still learning Japanese language.<br>📫 Here's my email: mratnaingoo@gmail.com<br>😄 You can call me Rikzil or Mrat.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/myat.naing.5249) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/rikkzil) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mrat-naing-oo-a2712a288) 
